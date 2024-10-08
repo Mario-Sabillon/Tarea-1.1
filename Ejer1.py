@@ -1,4 +1,5 @@
-#ejercicio 1
+#Tareea 1.1
+#ejercicio 1 
 
 class rectangulo:
     def __init__(self, base, altura):
